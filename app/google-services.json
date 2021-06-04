@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "107050427097",
+    "project_id": "drink-it-f68a9",
+    "storage_bucket": "drink-it-f68a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107050427097:android:c3993c7a526a208f13d4c8",
+        "android_client_info": {
+          "package_name": "com.example.drinkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107050427097-ltcaschnutvu2s24tdmqunkvdt8jc43t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQjQIvex7gJwjxP11j5fSkteL6rVNotB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107050427097-ltcaschnutvu2s24tdmqunkvdt8jc43t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
